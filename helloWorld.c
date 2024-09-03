@@ -11,6 +11,6 @@ int main(void)
     {
         printf("%d %c\n", number++, symbol);
     }
-    puts("finish loop");
+    printf("finish loop");
     //return EXIT_SUCCESS;
 }
