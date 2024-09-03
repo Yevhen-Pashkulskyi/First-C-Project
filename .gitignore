@@ -1,0 +1,16 @@
+.eslintcache*
+.vscode/
+.o
+o.obj
+.lib
+.so
+.dll
+.exe
+a.out
+build/
+demo/ 
+*.swp
+thumbs.db
+*.json
+.DS_Store
+helloWorld.dSYM/
