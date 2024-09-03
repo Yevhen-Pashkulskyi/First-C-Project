@@ -13,4 +13,7 @@ demo/
 thumbs.db
 *.json
 .DS_Store
-helloWorld.dSYM/
+cmake-build-debug/
+CMakeLists.txt
+.idea/
+
